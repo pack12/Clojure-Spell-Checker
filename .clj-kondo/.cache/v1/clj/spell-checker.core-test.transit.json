@@ -1,1 +1,1 @@
-["^ ","~$a-test",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$spell-checker.core-test","~:top-ns","^7"],"~:filename","/Users/johnkettula/Downloads/spell_check-master/test/spell_checker/core_test.clj"]
+["^ ","~$a-test",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$spell-checker.core-test","~:top-ns","^7"],"~:filename","/Users/johnkettula/CS340/Clojure-Spell-Checker/spell-checker/test/spell_checker/core_test.clj"]
